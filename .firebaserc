@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "ajonp-hosting-lessons"
+    "default": "umall2"
   },
   "targets": {
-    "ajonp-hosting-lessons": {
+    "umall2": {
       "hosting": {
-        "ajonp-lesson-8-hugo": [
-          "ajonp-lesson-8-hugo"
+        "umall2": [
+          "umall2"
         ]
       }
     }
